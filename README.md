@@ -8,18 +8,18 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+The code demonstrates two ways in which the turtles can race. The first acts as a simple forward movement, while the second shows the turtles moving in a loop of ten movements. Part B involved drawing shapes by calculating the angle using the number of sides for each shape. 
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/5
+Grace days remaining: 5/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+To my knowledge, all parts of the assignment were completed. 
 
 ## REFERENCES:
- < List any outside resources used >
+Turtle library and Description Google Doc
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+None
